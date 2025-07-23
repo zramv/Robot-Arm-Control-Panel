@@ -5,7 +5,7 @@ Two main tables are used:
 - **poses**: stores positions (servo angles)
 - **run**: store current pose that are execute by the robot arm
 
-## Some Feature 
+## Some Features 
 - Web interface with 6 inputs to control 6 servo motors
 - Save and delete poses
 - Load and run poses
@@ -20,4 +20,7 @@ Two main tables are used:
 - HTML/CSS/JavaScript (frontend)
 - AJAX
 
-##Preview
+## Preview
+
+https://github.com/user-attachments/assets/d3a8630b-5731-4cae-b321-b75ce6ee9d8c
+
